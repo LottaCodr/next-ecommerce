@@ -1,6 +1,11 @@
+import Menu from "./component/menu"
+
 const HomePage = () => {
   return (
-    <div className=''>HomePage</div>
+    <div className=''>
+      <p>HomePage</p>
+      
+    </div>
   )
 }
 
